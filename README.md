@@ -21,4 +21,4 @@ Shubham [LinkedIn](www.linkedin.com/in/shubham-tayade-112189280)
 
 
 ## 🧠 RTL Schematic
-![RTL Schematic](images/RTL design.png)
+images/RTL design.png
